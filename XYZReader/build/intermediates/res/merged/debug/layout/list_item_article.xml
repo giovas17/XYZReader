@@ -19,7 +19,7 @@
         <com.example.xyzreader.ui.DynamicHeightNetworkImageView
             android:id="@+id/thumbnail"
             android:layout_width="match_parent"
-            android:layout_height="100dp"
+            android:layout_height="@dimen/min_height_imageview"
             android:background="@color/photo_placeholder" />
 
         <TextView
@@ -27,10 +27,10 @@
             style="@style/TextAppearance.AppCompat.Subhead"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:paddingLeft="16dp"
-            android:paddingTop="16dp"
-            android:paddingRight="16dp"
-            android:paddingBottom="4dp"
+            android:paddingLeft="@dimen/normal_padding"
+            android:paddingTop="@dimen/normal_padding"
+            android:paddingRight="@dimen/normal_padding"
+            android:paddingBottom="@dimen/little_space"
             android:ellipsize="end"
             android:maxLines="4" />
 
@@ -39,10 +39,10 @@
             style="@style/TextAppearance.AppCompat.Body1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:paddingLeft="16dp"
-            android:paddingRight="16dp"
-            android:paddingBottom="16dp"
-            android:textColor="#6000"
+            android:paddingLeft="@dimen/normal_padding"
+            android:paddingRight="@dimen/normal_padding"
+            android:paddingBottom="@dimen/normal_padding"
+            android:textColor="@color/text_color_subtitle"
             android:maxLines="1"
             android:singleLine="true"
             android:ellipsize="end" />

@@ -2,9 +2,9 @@
 <instant-run
     abi="x86"
     api-level="22"
-    density="xhdpi"
+    density="420dpi"
     format="7"
-    timestamp="626235277416911" >
+    timestamp="444269789117278" >
 
     <task
         name="javac"
@@ -20,24 +20,17 @@
         duration="0" />
 
     <artifact
-        location="C:\Users\DarkGeat\AndroidStudioProjects\XYZReader\XYZReader\build\intermediates\res\resources-debug.ap_"
+        location="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/res/resources-debug.ap_"
         type="RESOURCES" />
 
-    <build timestamp="619696043069606" >
+    <build timestamp="444135007034425" >
         <artifact
-            location="C:\Users\DarkGeat\AndroidStudioProjects\XYZReader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+            location="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="620630554467939"
-        verifier="PARENT_CLASS_CHANGED" >
+    <build timestamp="444269789117278" >
         <artifact
-            location="C:\Users\DarkGeat\AndroidStudioProjects\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="626235277416911" >
-        <artifact
-            location="C:\Users\DarkGeat\AndroidStudioProjects\XYZReader\XYZReader\build\intermediates\res\resources-debug.ap_"
+            location="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/res/resources-debug.ap_"
             type="RESOURCES" />
     </build>
 

@@ -1,3 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_1157939517433adf9fcde8ad29f225e1da694de7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-22.0.0_d03245ec17a6f7355c2690615db6226cccc9fc48/classes.dex" />
+    </item>
+    <item
+        jar="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-22.0.0_21641d1aea8961efd104e0b8bdbb18a5fb59a686/classes.dex" />
+    </item>
+    <item
+        jar="/Users/itexicodev/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_ae8c5195f1652958297e0f44490797e69dcb7723/classes.dex" />
+    </item>
+    <item
+        jar="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_95328055104dcac35d5955fc058b1ae4507288c0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="78417e452c3a0217dc87dae1014ea87a286b8040">
+        <dex dex="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b30987ab2dc59d0c4fd8d9c15fe677ca53717db5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.0_063a1b43cdc3a47f623557fc3afe69cc30419f9e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/itexicodev/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_e26c84cf76cc52692911a9e11f2dba4772fa6b33/classes.dex" />
+    </item>
+    <item
+        jar="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.0_efc9853677d380f3bf011da58321397a50e2cced/classes.dex" />
+    </item>
+    <item
+        jar="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.0_b08dd3491a48be4532ad7ad9f631f99c9adc055e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4b148ea382b2391afc92ad00350f1c2dba4d6bfb">
+        <dex dex="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_355d36f8e2e9916a19cdcd43565d5bcf99fbde7a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.2.0_d6265d8dfb8cf53427fdd9a90827c82a14934a5f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-22.0.0_9bf8eb7a3da82ac037bc024692bfdd803c639fe5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/itexicodev/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_e8cae04c8b0c0a58cf5bdc3e2524abf2f2840bc9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/itexicodev/Documents/Android Apps/XYZReader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_c001a468308d27a83d635f76d5729878a44c2cfd/classes.dex" />
+    </item>
+
+</items>
